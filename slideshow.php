@@ -39,7 +39,7 @@
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="image/Lr6agMBeoQ.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="image/2.png" alt="Second slide">
                     <div class="carousel-caption d-none d-md-block">
                       <h4>
                         <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
