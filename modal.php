@@ -1,3 +1,8 @@
+<style>
+.modal-backdrop {
+    z-index: 0 !important;
+}
+</style>
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
@@ -22,7 +27,7 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        
+        <button class='btn btn-info'>Test</button>
       </div>
     </div>
   </div>

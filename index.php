@@ -111,7 +111,7 @@
        include 'slideshow.php';
        include 'maps.php';
     
-       include 'chat.php';
+      //  include 'chat.php';
       
        
        ?>
