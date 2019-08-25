@@ -85,19 +85,19 @@
         // include 'pelangsing.php';
         // include 'testimoni.php';
         // include 'footer.php';
-        include 'penjelasan.php';
-        include 'modal.php';
-        include 'modal1.php';
-        include 'modal2.php';
-        include 'slideshow.php';
+        // include 'penjelasan.php';
+        // include 'modal.php';
+        // include 'modal1.php';
+        // include 'modal2.php';
+        // include 'slideshow.php';
         
-        include 'kegunaan.php';
-        include 'pesan_konsul.php';
+        // include 'kegunaan.php';
+        // include 'pesan_konsul.php';
         
         ?></div>
       <div class='col-sm-6'>
       <?php
-      include 'video.php';
+    //   include 'video.php';
       ?>
       </div>
       </div>
@@ -112,10 +112,12 @@
  
        <?php 
       //  include 'slideshow.php';
-      include 'testimoni.php';
-       include 'maps.php';
+    //   include 'testimoni.php';
+    //    include 'maps.php';
     
       //  include 'chat.php';
+
+      include 'spirulina1_page.php';
       
        
        ?>
