@@ -88,6 +88,7 @@
         include 'penjelasan.php';
         include 'modal.php';
         include 'slideshow.php';
+        
         include 'kegunaan.php';
         include 'pesan_konsul.php';
         
@@ -108,7 +109,8 @@
       <div class="container">
  
        <?php 
-       include 'slideshow.php';
+      //  include 'slideshow.php';
+      include 'testimoni.php';
        include 'maps.php';
     
       //  include 'chat.php';
