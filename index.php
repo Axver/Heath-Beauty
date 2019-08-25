@@ -20,7 +20,7 @@
 
 </head>
 
-<body class="index-page sidebar-collapse" onload='load()'>
+<body class="index-page sidebar-collapse">
   <nav class="navbar navbar-transparent navbar-color-on-scroll fixed-top navbar-expand-lg" color-on-scroll="100" id="sectionsNav">
     <div class="container">
       <div class="navbar-translate">
@@ -60,7 +60,7 @@
       </div>
     </div>
   </nav>
-  <div class="page-header header-filter clear-filter purple-filter" data-parallax="true" style="background-image: url('./assets/img/bg2.jpg');">
+  <div class="page-header header-filter clear-filter purple-filter" data-parallax="true" style="background-image: url('image/gb2.jpeg');">
     <div class="container">
       <div class="row">
         <div class="col-md-8 ml-auto mr-auto">
@@ -75,18 +75,32 @@
   <div class="main main-raised">
     <div class="section section-basic">
       <div class="container">
-        <?php
-        include 'transparan.php';
-        include 'navbar.php';
-        include 'spirulina.php';
-        include 'peninggi.php';
-        include 'pelangsing.php';
-        include 'testimoni.php';
-        include 'footer.php';
+      <div class='row'>
+      <div class='col-sm-6'>     <?php
+        // include 'transparan.php';
+        // include 'navbar.php';
+        // include 'spirulina.php';
+        // include 'peninggi.php';
+        // include 'pelangsing.php';
+        // include 'testimoni.php';
+        // include 'footer.php';
+        include 'modal.php';
+        include 'slideshow.php';
+        include 'kegunaan.php';
+        include 'pesan_konsul.php';
         
-        ?>
+        ?></div>
+      <div class='col-sm-6'>
+      <?php
+      include 'video.php';
+      ?>
+      </div>
+      </div>
+    
    
      
+      </div>
+      <div style='height:200px;'>
       </div>
     </div>
     <div class="section section-navbars cd-section" id="navigation">
@@ -95,7 +109,9 @@
        <?php 
        include 'slideshow.php';
        include 'maps.php';
+    
        include 'chat.php';
+      
        
        ?>
 
@@ -182,7 +198,8 @@
 
       function whatsapp()
       {
-        windos.location="https://api.whatsapp.com/send?phone=086576199777&text=Hai Admin, saya ingin bertanya seputar produk";
+        let data="Hai Admin, saya ingin bertanya seputar produk";
+        windos.location="https://api.whatsapp.com/send?phone=086576199777&text="+data;
       }
 
       function facebook()

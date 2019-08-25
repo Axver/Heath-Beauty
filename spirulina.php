@@ -124,6 +124,6 @@
 
 function beli(data)
 {
-  window.location.href="https://api.whatsapp.com/send?phone=086576199777&text=Hai, Saya Ingin Membeli "+data;
+  window.location.href="https://api.whatsapp.com/send?phone=085264496374&text=Hai, Saya Ingin Membeli "+data;
 }
 </script>

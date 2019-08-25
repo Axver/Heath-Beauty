@@ -106,7 +106,7 @@ function kirimPesan()
 {
     var pesan=document.getElementById("pesan").value;
     alert("pesan");
-    window.location.href="https://api.whatsapp.com/send?phone=086576199777&text="+pesan;
+    window.location.href="https://api.whatsapp.com/send?phone=085264496374&text="+pesan;
 }
 </script>
 
