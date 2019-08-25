@@ -15,7 +15,31 @@
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="image/gb1.jpeg" alt="Second slide">
+                    <img class="d-block w-100" src="image/VmF1uFXEFP.jpg" alt="Second slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h4>
+                        <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/H7kW9uV0CX.jpg" alt="Second slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h4>
+                        <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/lAFdTx621i.jpg" alt="Second slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h4>
+                        <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/Lr6agMBeoQ.jpg" alt="Second slide">
                     <div class="carousel-caption d-none d-md-block">
                       <h4>
                         <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
@@ -23,13 +47,14 @@
                     </div>
                   </div>
                   <div class="carousel-item active">
-                    <img class="d-block w-100" src="image/gb1.jpeg" alt="Third slide">
+                    <img class="d-block w-100" src="image/lAFdTx621i.jpg" alt="Third slide">
                     <div class="carousel-caption d-none d-md-block">
                       <h4>
                         <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
                       </h4>
                     </div>
                   </div>
+                  
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                   <i class="material-icons">keyboard_arrow_left</i>

@@ -85,6 +85,7 @@
         // include 'pelangsing.php';
         // include 'testimoni.php';
         // include 'footer.php';
+        include 'penjelasan.php';
         include 'modal.php';
         include 'slideshow.php';
         include 'kegunaan.php';
@@ -101,8 +102,7 @@
    
      
       </div>
-      <div style='height:200px;'>
-      </div>
+    
     </div>
     <div class="section section-navbars cd-section" id="navigation">
       <div class="container">
