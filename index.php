@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8" />
+  <!-- <meta charset="utf-8" /> -->
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
   <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="./assets/img/favicon.png">

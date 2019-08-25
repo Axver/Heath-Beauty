@@ -19,6 +19,6 @@ video {
 <div class='panel-head'><h3><b>Cek Ongkir (Kota asal Padang)</b></h3></div>
 <div class='panel-body'>
 <div data-theme="light" id="rajaongkir-widget"></div>
-<script type="text/javascript" src="//rajaongkir.com/script/widget.js"></script>
+<script type="text/javascript" src="https://rajaongkir.com/script/widget.js"></script>
 </div>
 </div>
